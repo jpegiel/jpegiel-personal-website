@@ -91,7 +91,7 @@ aside {
                 text-transform: uppercase;
                 font-weight: 700;
                 font-size: 13px;
-                color: $theme-dark;
+                color: #edede9;
                 &:hover {
                     color: $theme-primary;
                 }
@@ -99,7 +99,7 @@ aside {
             &.active {
                 > a,
                 > a:focus {
-                    color: $theme-primary !important;
+                    color: #edede9 !important;
                     background-color: transparent;
                     &:hover {
                         background-color: transparent;
