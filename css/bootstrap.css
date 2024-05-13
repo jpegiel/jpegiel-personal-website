@@ -44,7 +44,7 @@ template {
   display: none;
 }
 a {
-  background-color: #edede9;
+  background-color: black;
 }
 a:active,
 a:hover {
@@ -66,7 +66,7 @@ h1 {
 }
 mark {
   color: #000;
-  background: #edede9;
+  background: #black;
 }
 small {
   font-size: 80%;
